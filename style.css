@@ -1,0 +1,35 @@
+.button {
+    width: 21%;
+    background: #425062;
+    color: #fff;
+    padding: 20px 0;
+    margin: 5px;
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+    vertical-align: middle;
+    /* margin-right: -4px; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+    
+.cal-full-body {
+    margin: 100px auto;
+    width: 400px;
+    height: auto;
+}
+.input-box{
+    width: 370px;
+    height: 60px;
+    text-align: right;
+    border-radius: 10px 10px 0 0;
+    background-color: red;
+    border: none;
+    font-size: 45px;
+    color: #fff;
+    padding: 7px;
+}
+.cal-body{
+    
+}
+    
